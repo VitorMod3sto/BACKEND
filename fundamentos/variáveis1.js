@@ -2,16 +2,16 @@
 var nomeCompleto
 
 // atribuição na variavel nomeCompleto (=)
-nomeCompleto = "Gustavo Clay"
+nomeCompleto = "Vitor Alves"
 
 // console.log("Olá ", nomeCompleto)
 
-var primeiroNome = "Gustavo"
-var nomeDoMeio = "Nascimento"
-var ultimoNome = "Lima"
-var idade = 25
+var primeiroNome = "Vitor"
+var nomeDoMeio = "Alves"
+var ultimoNome = "Modesto"
+var idade = 19
 
-idade = 30
+idade = 20 
 
 // console.log(primeiroNome, nomeDoMeio, ultimoNome, idade)
 
