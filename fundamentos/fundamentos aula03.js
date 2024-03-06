@@ -1,0 +1,5 @@
+String
+Number
+Boolean
+Object
+
